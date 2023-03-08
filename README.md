@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Satyaki Sinha
-- 👀 I’m interested in Data Science, Web Scraping, Java, Python, Quantum Computing and Cloud Computing
+- 👀 I’m interested in Data Science, Java, Python and Cloud Computing
 - 🌱 I’m currently learning Data Science, Java and Python
 - 📫 How to reach me sinha100satyaki@gmail.com
 
